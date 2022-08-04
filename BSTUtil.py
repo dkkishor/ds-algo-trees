@@ -28,7 +28,6 @@ class BSTUtil:
         bst.add_node(76)
         bst.add_node(80)
 
-
 if __name__ == "__main__":
     bst = BST()
     BSTUtil.create_tree_with_data(bst)
